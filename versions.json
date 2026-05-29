@@ -1,0 +1,106 @@
+﻿[
+    {
+        "id":  "d4eqo3hrsdvj3u0v6bjv",
+        "function_id":  "d4e38gral0su1lpkk60i",
+        "created_at":  "2025-08-01T13:05:55.840Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "671088640"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "22048768",
+        "status":  "ACTIVE",
+        "tags":  [
+                     "$latest"
+                 ],
+        "environment":  {
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e",
+                            "GOOGLE_SERVICE_ACCOUNT_EMAIL":  "\u003credacted\u003e",
+                            "SHEET_ID":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4eden93n1gk51dicr2i",
+        "function_id":  "d4e38gral0su1lpkk60i",
+        "created_at":  "2025-08-01T12:59:50.334Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "671088640"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "22048768",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e",
+                            "GOOGLE_SERVICE_ACCOUNT_EMAIL":  "\u003credacted\u003e",
+                            "SHEET_ID":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4e6otiige9g0aq04v2v",
+        "function_id":  "d4e38gral0su1lpkk60i",
+        "created_at":  "2025-08-01T12:48:16.315Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "671088640"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "22048768",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e",
+                            "GOOGLE_SERVICE_ACCOUNT_EMAIL":  "\u003credacted\u003e",
+                            "SHEET_ID":  "\u003credacted\u003e",
+                            "SHEET_ID2":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4eh4kmf9vo4caicvfqr",
+        "function_id":  "d4e38gral0su1lpkk60i",
+        "created_at":  "2025-07-14T14:49:09.643Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "671088640"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "22044672",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e",
+                            "GOOGLE_SERVICE_ACCOUNT_EMAIL":  "\u003credacted\u003e",
+                            "SHEET_ID":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    }
+]
